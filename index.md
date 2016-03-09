@@ -29,6 +29,8 @@ The price for each set of balloons is:
 ## Pop, pop!
 
 **During the party**
- > 5 red balloons, 1 blue balloon and 3 yellow balloons popped :-/ How many people won’t have balloons?
  
+ > 5 red balloons, 1 blue balloon and 3 yellow balloons popped 
+ 
+* How many people won’t have balloons?
 * Which colour has the most balloons, and which one has the least?
