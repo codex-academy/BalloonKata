@@ -11,9 +11,9 @@ title: Balloon Kata
 
 ## Order up
 
-You want to have a variety of balloons for a party. You can only order balloons in **sets of 3**. You ordered:
+You want to have a variety of balloons for a party. You can only order balloons in **sets of 3**. The balloon shop confirmed your order via WhatsApp:
 
-> 12 red balloons, 9 blue balloons and 9 yellow balloons.
+> We're sending 12 red balloons, 9 blue balloons, and 9 yellow balloons.
 
 There are **25 people** coming to the party.
 
