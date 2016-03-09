@@ -11,19 +11,20 @@ title: Balloon Kata
 
 ## Order up
 
-You want to have a variety of balloons for a party. You can only order balloons in **sets of 3**. The balloon shop confirmed your order via WhatsApp:
+You want to have a variety of balloons for a party. You can only order balloons in sets of 3.
 
-> We're sending 12 red balloons, 9 blue balloons, and 9 yellow balloons.
+The order placed was:
 
-There are **25 people** coming to the party.
+> 4 sets of red, 3 sets of blue and 3 sets of yellow.
 
-* Did you order enough balloons for everyone to get one balloon?
-* Do you have any spare?
+The price for each set of balloons is: **R4 for red**, **R5 for blue**, and **R5.50 for yellow**.
+
+* How many of each colour balloon did we order?
+* How much do all the balloons cost?
+* If it costs R2.00 to inflate each balloon with helium, how much extra would that cost?
+* If there are 25 people coming to the party, are there enough balloons for everyone to get one balloon? Do you have any spare?
 
 ## Pop, pop!
 
-During the party, **5 red balloons**, **1 blue balloon** and **3 yellow balloons** popped :-/
-
-* Which colour has the most balloons?
-* Which colour has has the least balloons?
-* How many people won't have balloons?
+* During the party, 5 red balloons, 1 blue balloon and 3 yellow balloons popped :-/ How many people won’t have balloons?
+* Which colour has the most balloons, and which one has the least?
