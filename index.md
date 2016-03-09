@@ -17,7 +17,9 @@ The order placed was:
 
 > 4 sets of red, 3 sets of blue and 3 sets of yellow.
 
-The price for each set of balloons is: **R4 for red**, **R5 for blue**, and **R5.50 for yellow**.
+The price for each set of balloons is: 
+
+> **R4 for red**, **R5 for blue**, and **R5.50 for yellow**.
 
 * How many of each colour balloon did we order?
 * How much do all the balloons cost?
@@ -26,5 +28,7 @@ The price for each set of balloons is: **R4 for red**, **R5 for blue**, and **R5
 
 ## Pop, pop!
 
-* During the party, 5 red balloons, 1 blue balloon and 3 yellow balloons popped :-/ How many people won’t have balloons?
+**During the party**
+ > 5 red balloons, 1 blue balloon and 3 yellow balloons popped :-/ How many people won’t have balloons?
+ 
 * Which colour has the most balloons, and which one has the least?
