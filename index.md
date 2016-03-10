@@ -15,7 +15,7 @@ You want to have a variety of balloons for a party. You can only order balloons 
 
 This order placed was:
 
-> 4 sets of red, 3 sets of blue and 3 sets of yellow.
+> 4 sets of red, 3 sets of blue, and 3 sets of yellow.
 
 The price for each set of balloons is: 
 
@@ -34,7 +34,7 @@ Use TDD and write functions that answer these questions:
 
 **During the party**
  
- > 5 red balloons, 1 blue balloon and 3 yellow balloons popped 
  
+ > 5 red balloons, 1 blue balloon, and 3 yellow balloons popped
 * How many people won’t have balloons?
 * Which colour has the most balloons, and which one has the least?
