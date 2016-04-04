@@ -13,15 +13,15 @@ title: Balloon Kata
 
 You want to have a variety of balloons for a party. You can only order balloons in sets of 3.
 
-This order placed was:
+This order was place:
 
 > 4 sets of red, 3 sets of blue, and 3 sets of yellow.
 
-The price for each set of balloons is: 
+The price for each set of balloons are: 
 
 > R4 for red, R5 for blue, and R5.50 for yellow.
 
-Use the strings as your starting point. 
+Use these strings as your starting point. 
 
 Use TDD and write functions that answer these questions:
 
@@ -34,8 +34,15 @@ Use TDD and write functions that answer these questions:
 
 **During the party**
  
- 
  > 5 red balloons, 1 blue balloon, and 3 yellow balloons popped
  
 * How many people won’t have balloons?
 * Which colour has the most balloons, and which one has the least?
+
+
+## Other parties:
+
+Remember that your functions should also work for other parties.
+
+* `7 sets of orange, 3 sets of yellow, and 8 sets of blue.`
+* `R6 for orange, R3.75 for yellow, and R7.50 for blue.`
