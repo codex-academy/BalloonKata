@@ -46,4 +46,4 @@ Remember that your functions should also work for other parties.
 
 * `7 sets of orange, 3 sets of yellow, and 8 sets of blue.`
 * `R6 for orange, R3.75 for yellow, and R7.50 for blue.`
-* `6 red orange, 2 yellow balloon, and 5 blue balloons popped`
+* `6 orange ballons, 2 yellow balloons, and 5 blue balloons popped`
